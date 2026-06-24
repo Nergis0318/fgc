@@ -1,0 +1,2 @@
+# fgc
+Fast Git Clone
